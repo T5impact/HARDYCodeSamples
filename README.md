@@ -8,4 +8,8 @@ Despite this being my first game, I still priorised clean, clear, and structured
 
 ---
 
-##
+## Introduction Script C#
+
+## Move Script C#
+
+## Pirate Script C#
