@@ -10,7 +10,7 @@ Despite this being my first game, I still prioritized clean, clear, and structur
 
 ## Introduction Script C#
 
-This script handles the intro cutscene and implemented a custom dialogue manager.
+This script handles the intro cutscene and implements a custom dialogue manager.
 
 Designed to show dialogue one letter at a time based on a customizable rate.
 
@@ -20,5 +20,9 @@ Allows for easy skipping of the cutscene.
 
 
 ## Move Script C#
+
+This script handles the player's movement.
+
+Implements a physics-based movement system that allows acceleration, momentum, and a max velocity independent of vertical velocity.
 
 ## Pirate Script C#
