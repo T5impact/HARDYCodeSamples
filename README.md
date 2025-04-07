@@ -25,4 +25,14 @@ This script handles the player's movement.
 
 Implements a physics-based movement system that allows acceleration, momentum, and a max velocity independent of vertical velocity.
 
+Integrates with animation system and particle effects that scale with velocity.
+
+Allows for a jump that has a cooldown.
+
 ## Pirate Script C#
+
+This script is the controller for the pirate enemy and implements a patrol-based AI.
+
+Designed a procedural patrol system that uses collision detection to determine when the enemy should move in the other direction.
+
+Uses a line-of-sight detection system based on the dot product to determine when a player is in range.
